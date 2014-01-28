@@ -1,0 +1,2 @@
+C:\Users\Ben\Desktop\KingBurrito\KingBurrito\KingBurritoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\KingBurrito-master\KingBurrito\KingBurritoContent\obj\x86\Debug\ResolveAssemblyReference.cache

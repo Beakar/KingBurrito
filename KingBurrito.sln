@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingBurrito", "KingBurrito\KingBurrito\KingBurrito.csproj", "{3A9EE582-D399-4B9D-81E9-C963943B9F66}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KingBurritoContent", "KingBurrito\KingBurritoContent\KingBurritoContent.contentproj", "{1B7F0FF7-8156-4579-9B6C-056CF690DE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A9EE582-D399-4B9D-81E9-C963943B9F66}.Debug|x86.ActiveCfg = Debug|x86
+		{3A9EE582-D399-4B9D-81E9-C963943B9F66}.Debug|x86.Build.0 = Debug|x86
+		{3A9EE582-D399-4B9D-81E9-C963943B9F66}.Release|x86.ActiveCfg = Release|x86
+		{3A9EE582-D399-4B9D-81E9-C963943B9F66}.Release|x86.Build.0 = Release|x86
+		{1B7F0FF7-8156-4579-9B6C-056CF690DE40}.Debug|x86.ActiveCfg = Debug|x86
+		{1B7F0FF7-8156-4579-9B6C-056CF690DE40}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
